@@ -1,0 +1,14 @@
+
+.editor{
+    border: 1px solid #f1f1f1 !important;
+    background-color: #fff;
+    padding: 5px !important;
+    border-radius: 2px !important;
+    height: 500px;
+    overflow: auto;
+    box-sizing: border-box;
+}
+
+/* ::-webkit-scrollbar {width: 5px ; height: 5px; position: relative;}
+::-webkit-scrollbar-thumb {background-color: #644465 ;}
+::-webkit-scrollbar-track {background-color: rgb(95, 81, 157) ;} */
